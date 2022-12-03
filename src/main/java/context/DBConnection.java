@@ -10,7 +10,7 @@ import java.sql.Statement;
 public enum DBConnection {
 	SQLCONNECTION;
 	private static Connection connection;
-	private static final String url = "jdbc:sqlserver://localhost:1433;databaseName=Project_Final";
+	private static final String url = "jdbc:sqlserver://localhost:1433;databaseName=Project_Final_Vertion1.2";
 	private static final String name = "sa";
 	private static final String password = "sa";
 	
